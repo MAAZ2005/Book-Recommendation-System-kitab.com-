@@ -122,7 +122,7 @@ python sample_data_generator.py
 ### 1️ Clone the Repository
 
 
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/MAAZ2005/Book-Recommendation-System-kitab.com-)
 cd book-recommendation-system
 ```
 
